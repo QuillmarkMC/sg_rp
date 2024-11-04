@@ -1,0 +1,6 @@
+{
+  "parent": "sg:item/countdown_timer/parent",
+  "textures": {
+    "number": "sg:item/countdown_number/9"
+  }
+}
