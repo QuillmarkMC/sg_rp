@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pufferfish_bucket"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "sg:item/countdown_timer/1"},
+    {"predicate": {"custom_model_data": 2},"model": "sg:item/countdown_timer/2"},
+    {"predicate": {"custom_model_data": 3},"model": "sg:item/countdown_timer/3"},
+    {"predicate": {"custom_model_data": 4},"model": "sg:item/countdown_timer/4"},
+    {"predicate": {"custom_model_data": 5},"model": "sg:item/countdown_timer/5"},
+    {"predicate": {"custom_model_data": 6},"model": "sg:item/countdown_timer/6"},
+    {"predicate": {"custom_model_data": 7},"model": "sg:item/countdown_timer/7"},
+    {"predicate": {"custom_model_data": 8},"model": "sg:item/countdown_timer/8"},
+    {"predicate": {"custom_model_data": 9},"model": "sg:item/countdown_timer/9"},
+    {"predicate": {"custom_model_data": 10},"model": "sg:item/countdown_timer/10"},
+    {"predicate": {"custom_model_data": 11},"model": "sg:item/countdown_timer/11"},
+    {"predicate": {"custom_model_data": 12},"model": "sg:item/countdown_timer/12"},
+    {"predicate": {"custom_model_data": 13},"model": "sg:item/countdown_timer/13"},
+    {"predicate": {"custom_model_data": 14},"model": "sg:item/countdown_timer/14"},
+    {"predicate": {"custom_model_data": 15},"model": "sg:item/countdown_timer/15"},
+    {"predicate": {"custom_model_data": 16},"model": "sg:item/countdown_timer/16"},
+    {"predicate": {"custom_model_data": 17},"model": "sg:item/countdown_timer/17"},
+    {"predicate": {"custom_model_data": 18},"model": "sg:item/countdown_timer/18"},
+    {"predicate": {"custom_model_data": 19},"model": "sg:item/countdown_timer/19"},
+    {"predicate": {"custom_model_data": 100000},"model": "sg:item/countdown_timer/0"}
+  ]
+}
