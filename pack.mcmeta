@@ -1,8 +1,8 @@
 {
 	"pack":{
-		"pack_format": 55,
+		"pack_format": 64,
 		"description": "\u00A76\u00A7oResource pack for: \u00A77\u00A7l\nRuins of Altrac",
-		"supported_formats": [42, 55]
+		"supported_formats": [42, 64]
 	},
     "overlays": {
         "entries": [
