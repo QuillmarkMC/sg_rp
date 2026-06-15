@@ -1,6 +1,8 @@
 {
   "soundCategory.music": "§cバニラの音楽 (§4OFF推奨§c)§r",
   "soundCategory.record": "§aカスタムエフェクト§r",
+  "menu.options": "§a設定…§r",
+  "options.sounds": "§aサウンド設定…§r",
   "key.mouse.left": "左クリック",
   "key.mouse.right": "右クリック",
   "key.mouse.middle": "ホイールクリック",

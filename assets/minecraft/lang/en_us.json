@@ -1,6 +1,8 @@
 {
   "soundCategory.music": "§cVanilla Music (§4disable§c)§r",
   "soundCategory.record": "§aCustom Effects§r",
+  "menu.options": "§aOptions...§r",
+  "options.sounds": "§aMusic & Sounds...§r",
   "key.mouse.left": "Left Click",
   "key.mouse.right": "Right Click",
   "key.mouse.middle": "Middle Click",
